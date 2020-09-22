@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625799690768",
+    "firebase_url": "https://finalproject-992da.firebaseio.com",
+    "project_id": "finalproject-992da",
+    "storage_bucket": "finalproject-992da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625799690768:android:6ddf3f517b850d19dba895",
+        "android_client_info": {
+          "package_name": "edu.lwtech.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625799690768-6htq5urdindnsufi4hgcsm7le43jnfin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbQWCVKiLAVStJBxVbJCx-fO2jRffm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625799690768-6htq5urdindnsufi4hgcsm7le43jnfin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
